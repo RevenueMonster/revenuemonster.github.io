@@ -30,6 +30,8 @@ layout: default
 
 * **Submit your code via any public Git repository link to yang@revenuemonster.my with your name and contact information (So I know who you are.)**
 
+* **Take your time, it's not a race. Just don't take a year :P**
+
 
 ### Bonus:
 * Make a filter.
