@@ -15,20 +15,22 @@ layout: default
 
 * We will talk about the small app during our interview about **coding styles, thoughts behind designs** and get to know you better. 
 
-* **Don't be afraid.** It's a learning opportunity, you could still use it as a portfolio regardless the outcome of the interview :)
+* **Don't be afraid.** It's a learning opportunity, you could still use it as a portfolio regardless the outcome of the interview. :)
 
-# [](#header-1)Gallery App
+# [](#header-1)Gallery App Task
 
 ### Requirments:
-* Use [React Native](https://facebook.github.io/react-native/). You only have to make it work for either iOS or Android. (Of course both is a bonus)
+* **Use [React Native](https://facebook.github.io/react-native/). You only have to make it work for either iOS or Android. (Of course both is a bonus.)**
 
-* Use developer API from [dribbble](http://developer.dribbble.com/v1/) to retrieve photos for your Gallery App. You could retrieve any photo you like. 
+* **Use developer API from [dribbble](http://developer.dribbble.com/v1/) to retrieve photos for your Gallery App. You could retrieve any photo you like.**
 
-* The outcome of the App UI is in your hands. Make it look nice and clean.
+* **The outcome of the App UI is in your hands. Make it look nice and clean.**
+
+* **Submit your code via any public Git repository link to yang@revenuemonster.my with your name and contact information (So I know who you are.)**
 
 ### Bonus:
-* Make a filter
-* Use a state management framework such as [Redux](http://redux.js.org/)
+* Make a filter.
+* Use a state management framework such as [Redux](http://redux.js.org/).
 
 
 
