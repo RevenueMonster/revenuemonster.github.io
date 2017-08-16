@@ -26,7 +26,10 @@ layout: default
 
 * **The outcome of the App UI is in your hands. Make it look nice and clean.**
 
+* **You are welcome to use any boilerplate code but please don't simply copy every line. I want to understand your own coding style.**
+
 * **Submit your code via any public Git repository link to yang@revenuemonster.my with your name and contact information (So I know who you are.)**
+
 
 ### Bonus:
 * Make a filter.
