@@ -5,7 +5,7 @@ layout: default
 # [](#header-1)Welcome Candidates (Pre-Interview)
  Below are the purpose of the small task you are about face (making a simple gallery app) before proceeding to our face-to-face interview:
 
-* We want to know if you are serious about the application. If you don't already know what we do, check our our [website](http://revenuemonster.my) first. Think about if this is something that really interest you or not. **Life is short, do what you love.**
+* We want to know if you are serious about the application. If you don't already know what we do, check out our [website](http://revenuemonster.my) first. Think about if this is something that really interest you or not. **Life is short, do what you love.**
 
 * This small task tells us if you are **willing to learn new technology** or work with open source technology. As React is fairly new, it does require some learning if you have not prior experience.
 
