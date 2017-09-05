@@ -3,17 +3,19 @@ layout: default
 ---
 
 # [](#header-1)Welcome Candidates (Pre-Interview)
- Below are the purpose of the small task you are about face (making a simple gallery app) before proceeding to our face-to-face interview:
+ Kindly follow the steps below and complete the gallery app task before proceeding to our face-to-face interview:
 
-* We want to know if you are serious about the application. If you don't already know what we do, check out our [website](http://revenuemonster.my) first. Think about if this is something that really interest you or not. **Life is short, do what you love.**
+* We want to know if you are serious about the application. Check out our [website](http://revenuemonster.my) to get a general gist of what we do before you proceed. Think about if this is something that really interest you for at least 2-3 years. **Life is short, do what you love.**
 
-* This small task tells us if you are **willing to learn new technology** or work with open source technology. As React is fairly new, it does require some learning if you have not prior experience.
+* Are you **willing to constantly keep up with the latest technology** and work with open sourced
+technology? React is fairly new in the market and it will require a little studying if you do not have the
+experience prior to this.
 
-* It examines your **programming styles and your sense of design**. We love to write beautiful code and build awesome looking applications. 
+* The task examines your **programming styles and your sense of design**. We love to write beautiful code and build awesome looking applications. 
 
-* It examines your understanding of basic **API programming and basic front end development**.
+* The task examines your understanding of basic **API programming and basic front end development**.
 
-* We will talk about the small app during our interview about **coding styles, thoughts behind designs** and get to know you better. 
+* We will discuss about the small app during our interview about **coding styles, thoughts behind designs** and get to know you better. 
 
 * **Don't be afraid.** It's a learning opportunity, you could still use it as a portfolio regardless the outcome of the interview. :)
 
@@ -33,7 +35,7 @@ layout: default
 * **Take your time, it's not a race. Just don't take a year :P**
 
 
-### Bonus:
+### Bonus points for the task:
 * Make a filter.
 * Use a state management framework such as [Redux](http://redux.js.org/).
 
