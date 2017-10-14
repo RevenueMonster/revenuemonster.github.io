@@ -32,10 +32,11 @@ experience prior to this.
 
 * **Submit your code via any public Git repository link to [yang@revenuemonster.my](yang@revenuemonster.my) with your name and contact information (So I know who you are.)**
 
-* **Take your time, it's not a race. Just don't make us twait too long :)**
+* **Take your time, it's not a race. Just don't make us wait too long :)**
 
 
 ### Bonus points for the task:
+* Facebook or any Oauth login
 * Make a filter.
 * Use a state management framework such as [Redux](http://redux.js.org/).
 
