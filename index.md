@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#header-1)Welcome Candidates (Pre-Interview)
- Kindly follow the steps below and complete the gallery app task before proceeding to our face-to-face interview:
+ Kindly follow the steps below and complete one of the tasks before proceeding to our face-to-face interview:
 
 * We want to know if you are serious about the application. Check out our [website](http://revenuemonster.my) to get a general gist of what we do before you proceed. Give it a real good thought if this is something that would interest you for at least 2-3 years. **Life is short, do what you love.**
 
@@ -19,7 +19,7 @@ experience prior to this.
 
 * **Don't be afraid.** It's a learning opportunity, you could still use it as a portfolio regardless the outcome of the interview. :)
 
-# [](#header-1)Gallery App Task
+# [](#header-1)Gallery App Task (Frontend)
 
 ### Requirments:
 * **Use [React Native(mobile app)](https://facebook.github.io/react-native/) or [React JS(Web App)](https://facebook.github.io/react/). For React Native, You only have to make it work for either iOS or Android. (Of course completing both would be a bonus.)**
@@ -36,20 +36,29 @@ experience prior to this.
 
 
 ### Bonus points for the task:
-* Facebook or any Oauth login
+* Facebook or any Oauth login.
 * Make a filter.
-* Use a state management framework such as [Redux](http://redux.js.org/).
+* Use a state management framework such as [Mobx](https://mobx.js.org/) or [Redux](http://redux.js.org/).
+
+# [](#header-1)Gallery API Task (Backend)
+### Requirments:
+* **Use [Golang](https://golang.org/), Please inform us in advance if you chose to use other language.**
+
+* **Use developer API from [dribbble](http://developer.dribbble.com/v1/) to retrieve photos and save those photos in your golang server. You could retrieve any photo you like.**
+
+* **Keep the title, description, filename and its original link on Dribbble of each photo in any data format chosen.**
 
 
+* **Handle the json query request from a user to query photo name, description, filename and its orginal link from your data storage.**
 
 # [](#header-1)Our Values:
 We all grew up having dreams, but along the way were told to follow someone else’s success path because chasing the dream is too difficult.  “It’s impossible.”  If you don’t listen to what they say, you are the odd ones.
 
-We don’t believe great success can be achieved by bought overnight. It’s earned through countless days and nights, passionately working on those ideas that people say are “too difficult” or “impossible.” We are a group of odd ones who speak the truths, dream big dreams and do the impossible. 
+We don’t believe great success can be achieved overnight nor it can be bought. It’s earned through countless days and nights, passionately working on those ideas that people say are “too difficult” or “impossible.” We are a group of odd ones who speak the truths, dream big dreams and do the impossible. 
 
 We learn together, we support each other. Welcome to the Revenue Monster family.
 
 We believe in team effort. There is no single hero but only when we unite towards the same vision we are a superhero team.
 
-The like-minded are welcomed to challenge them at a place that encourages learning, respect effort, and value integrity. Detailed to perfection is in our genes and we will take no compromises. If you still have that spark in you and believe in what we believe. Join us, the odd ones. Let’s ignite the future! 
+The like-minded are welcomed to challenge them at a place that encourages learning, respect effort, and value integrity. Detailed to perfection is in our genes and we will make no compromises. If you still have that spark in you and believe in what we believe. Join us, the odd ones. Let’s ignite the future! 
 
