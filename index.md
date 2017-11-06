@@ -32,7 +32,7 @@ experience prior to this.
 
 * **Submit your code via any public Git repository link to [yang@revenuemonster.my](yang@revenuemonster.my) with your name and contact information (So I know who you are.)**
 
-* **Take your time, it's not a race. Just don't make us wait too long :)**
+* **Take your time, it's not a race. Just don't make us wait too long :) Typcially candidates return their task within two weeks.**
 
 
 ### Bonus points for the task:
@@ -48,8 +48,9 @@ experience prior to this.
 
 * **Keep the title, description, filename and its original link on Dribbble of each photo in any data format chosen.**
 
-
 * **Handle the json query request from a user to query photo name, description, filename and its orginal link from your data storage.**
+
+* **Take your time, it's not a race. Just don't make us wait too long :) Typcially candidates return their task within two weeks.**
 
 # [](#header-1)Our Values:
 We all grew up having dreams, but along the way were told to follow someone else’s success path because chasing the dream is too difficult.  “It’s impossible.”  If you don’t listen to what they say, you are the odd ones.
