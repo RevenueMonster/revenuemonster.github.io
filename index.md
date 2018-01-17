@@ -24,7 +24,7 @@ experience prior to this.
 ### Requirments:
 * **Use [React Native(mobile app)](https://facebook.github.io/react-native/) or [React JS(Web App)](https://facebook.github.io/react/). For React Native, You only have to make it work for either iOS or Android. (Of course completing both would be a bonus.)**
 
-* **Use developer API from [dribbble](http://developer.dribbble.com/v1/) to retrieve photos for your Gallery App. You could retrieve any photo you like.**
+* **Use developer API from [Behance](https://www.behance.net/dev/api/endpoints/) to retrieve photos for your Gallery App. You could retrieve any photo you like.**
 
 * **The outcome of the App UI/UX is in your hands. Make it look nice and clean.**
 
@@ -44,7 +44,7 @@ experience prior to this.
 ### Requirments:
 * **Use [Golang](https://golang.org/), Please inform us in advance if you chose to use other language.**
 
-* **Use developer API from [dribbble](http://developer.dribbble.com/v1/) to retrieve photos and save those photos in your golang server. You could retrieve any photo you like.**
+* **Use developer API from [Behance](https://www.behance.net/dev/api/endpoints/) to retrieve photos and save those photos in your golang server. You could retrieve any photo you like.**
 
 * **Keep the title, description, filename and its original link on Dribbble of each photo in any data format chosen.**
 
