@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#header-1)Welcome Candidates (Pre-Interview)
- Kindly follow the steps below and complete one of the tasks before proceeding to our face-to-face interview:
+ Kindly review our team values and the tasks you are about to face before joining our Revenue Monster developer family. You are welcome to visit our office to understand what we do before you commit to the tasks. And onece you have made your decision, complete one of the tasks below:
 
 * We want to know if you are serious about the application. Check out our [website](http://revenuemonster.my) to get a general gist of what we do before you proceed. Give it a real good thought if this is something that would interest you for at least 2-3 years. **Life is short, do what you love.**
 
