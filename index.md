@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)Welcome Candidates
+# [](#header-1)Welcome Candidates (Pre-interview)
 
 Kindly review our team values and the tasks you are about to face before joining our Revenue Monster developer family.
 
@@ -13,7 +13,7 @@ Kindly review our team values and the tasks you are about to face before joining
 
 * The task examines your **programming styles and your sense of design**. We love to write beautiful code and build awesome looking applications.
 
-* The task examines your understanding of basic **API programming and basic front end development**.
+* The task examines your understanding of **basic API programming** or **basic front end development**.
 
 * We will discuss about the small app during our interview about **coding styles, thoughts behind designs** and get to know you better.
 
