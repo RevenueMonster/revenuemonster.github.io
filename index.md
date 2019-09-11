@@ -22,23 +22,25 @@ Kindly review our team values and the tasks you are about to face before joining
 <br/>
 Once you have made your decision, complete one of the tasks below:
 
-# [](#header-1) Gallery App Task (Frontend)
+# [](#header-1) Movie App Task (Frontend)
 
 ### Requirements:
 
 - **You may choose to build (hybrid/native) mobile application or web application.**
 
-- **Choose any frontend framework ([React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Vue](https://github.com/vuejs/vue), [Flutter](https://github.com/flutter/flutter), [ReactNative](https://github.com/facebook/react-native) etc). For React Native, You only have to make it work for either iOS or Android. (Of course completing both would be a bonus)**
+- **Choose any frontend framework ([React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Vue](https://github.com/vuejs/vue), [Flutter](https://github.com/flutter/flutter), [ReactNative](https://github.com/facebook/react-native) etc). For React Native and Flutter, You only have to make it work for either iOS or Android. (Of course completing both would be a bonus)**
 
-- **Use developer API from [Behance](https://www.behance.net/dev/api/endpoints/) to retrieve photos for your Gallery App. You could retrieve any photo you like.**
+- **For Native app development, you only have to make one platform (Android/iOS)**
+
+- **Use developer API from [The Movie DB](https://www.themoviedb.org/documentation/api) to retrieve photos for your Movie App. You could retrieve any photo you like.**
 
 - **The outcome of the App UI/UX is in your hands. Make it look nice and clean.**
 
 - **You are welcomed to use any boilerplate code but please do not simply copy every line. We want to understand your own coding style.**
 
-- **Submit your code via any public Git repository link to [dev@revenuemonster.my](dev@revenuemonster.my) with your name and contact information (So I know who you are.)**
+- **Submit your code via Github repository link to [dev@revenuemonster.my](dev@revenuemonster.my) with your name and contact information (So I know who you are.)**
 
-- **Take your time, it's not a race. Just don't make us wait too long :) Typcially candidates return their task within two weeks.**
+- **Take your time, it's not a race. Just don't make us wait too long :) Typcially candidates return their task within a week.**
 
 ### Bonus points for the task:
 
@@ -47,15 +49,15 @@ Once you have made your decision, complete one of the tasks below:
 - Animation.
 - Use a state management framework. For ReactNative, you may use [Mobx](https://mobx.js.org/), [Redux](http://redux.js.org/) or any similar.
 
-# [](#header-1)Gallery API Task (Backend)
+# [](#header-1)Movie API Task (Backend)
 
 ### Requirements:
 
-- **Use any language [Go](https://golang.org/), [Rust](https://github.com/rust-lang/rust), [Haskell](https://github.com/haskell), [PHP](https://github.com/php), [Ruby](https://github.com/ruby/ruby), [NodeJS](https://github.com/nodejs/node), [Dart](https://github.com/dart-lang) etc**
+- **Use any language including but not limited to [Go](https://golang.org/), [Rust](https://github.com/rust-lang/rust), [Haskell](https://github.com/haskell), [PHP](https://github.com/php), [Ruby](https://github.com/ruby/ruby), [NodeJS](https://github.com/nodejs/node), [Dart](https://github.com/dart-lang) and etc**
 
-- **Use developer API from [Behance](https://www.behance.net/dev/api/endpoints/) to retrieve photos and save those photos in your golang server. You could retrieve any photo you like.**
+- **Use developer API from [The Movie DB](https://www.themoviedb.org/documentation/api) to retrieve photos and save those photos in your server. You could retrieve any photo you like.**
 
-- **Keep the title, description, filename and its original link on Dribbble of each photo in any data format chosen.**
+- **Keep the title, description, filename and its original link on The Movie DB of each photo in any data format chosen.**
 
 - **Handle the json query request from a user to query photo name, description, filename and its orginal link from your data storage.**
 
@@ -64,6 +66,7 @@ Once you have made your decision, complete one of the tasks below:
 ### Bonus points for the task:
 
 - **Go** or **Rust**
+- write testing
 
 # [](#header-1) Our Values :
 
