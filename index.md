@@ -38,7 +38,7 @@ Once you have made your decision, complete one of the tasks below:
 
 - **You are welcomed to use any boilerplate code but please do not simply copy every line. We want to understand your own coding style.**
 
-- **Submit your code via Github repository link to [dev@revenuemonster.my](dev@revenuemonster.my) with your name and contact information (So I know who you are.)**
+- **Submit your code via Github repository link to [hr@revenuemonster.my](hr@revenuemonster.my) with your name and contact information (So I know who you are.)**
 
 - **Take your time, it's not a race. Just don't make us wait too long :) Typcially candidates return their task within a week.**
 
