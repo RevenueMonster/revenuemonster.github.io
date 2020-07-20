@@ -61,7 +61,7 @@ Once you have made your decision, complete one of the tasks below:
 
 - **Handle the json query request from a user to query photo name, description, filename and its orginal link from your data storage.**
 
-- **Take your time, it's not a race. Just don't make us wait too long :) Typcially candidates return their task within two weeks.**
+- **Take your time, it's not a race. Just don't make us wait too long :) Typically candidates return their task within two weeks.**
 
 ### Bonus points for the task:
 
