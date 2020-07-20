@@ -28,7 +28,7 @@ Once you have made your decision, complete one of the tasks below:
 
 - **You may choose to build (hybrid/native) mobile application or web application.**
 
-- **Choose any frontend framework ([React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Vue](https://github.com/vuejs/vue), [Flutter](https://github.com/flutter/flutter), [ReactNative](https://github.com/facebook/react-native) etc). For React Native and Flutter, You only have to make it work for either iOS or Android. (Of course completing both would be a bonus)**
+- **Choose any frontend framework ([React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Vue](https://github.com/vuejs/vue), [Flutter](https://github.com/flutter/flutter), [ReactNative](https://github.com/facebook/react-native) etc). For React Native and Flutter, you only have to make it work for either iOS or Android. (Of course completing both would be a bonus)**
 
 - **For Native app development, you only have to make one platform (Android/iOS)**
 
@@ -40,7 +40,7 @@ Once you have made your decision, complete one of the tasks below:
 
 - **Submit your code via Github repository link to [hr@revenuemonster.my](mailto:hr@revenuemonster.my) with your name and contact information (So I know who you are.)**
 
-- **Take your time, it's not a race. Just don't make us wait too long :) Typcially candidates return their task within a week.**
+- **Take your time, it's not a race. Just don't make us wait too long :) Typically candidates return their task within a week.**
 
 ### Bonus points for the task:
 
