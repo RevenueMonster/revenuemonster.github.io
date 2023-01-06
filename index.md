@@ -53,7 +53,7 @@ Once you have made your decision, complete one of the tasks below:
 
 ### Requirements:
 
-- **Use any language including but not limited to [Go](https://golang.org/), [Rust](https://github.com/rust-lang/rust), [Haskell](https://github.com/haskell), [PHP](https://github.com/php), [Ruby](https://github.com/ruby/ruby), [NodeJS](https://github.com/nodejs/node), [Dart](https://github.com/dart-lang) and etc**
+- **Use any language including [Go](https://golang.org/), [PHP](https://github.com/php), [NodeJS](https://github.com/nodejs/node), [Dart](https://github.com/dart-lang), [Kotlin](https://github.com/JetBrains/kotlin) and etc**
 
 - **Use developer API from [The Movie DB](https://www.themoviedb.org/documentation/api) to retrieve photos and save those photos in your server. You could retrieve any photo you like.**
 
@@ -65,7 +65,7 @@ Once you have made your decision, complete one of the tasks below:
 
 ### Bonus points for the task:
 
-- **Go** or **Rust**
+- **Go** or **Node.js**
 - Write testing
 
 # [](#header-1) Our Values :
