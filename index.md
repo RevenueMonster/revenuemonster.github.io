@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# [](#header-1)Welcome Candidates (Pre-interview)
+# [](#header-1)Welcome Candidates
 
 Kindly review our team values and the tasks you are about to face before joining our Revenue Monster developer family.
 
-- We want to know if you are serious about the application. Check out our [website](http://revenuemonster.my) to get a general gist of what we do before you proceed. Give it a real good thought if this is something that would interest you for at least 2-3 years. **Life is short, do what you love.**
+- We want to know if you are serious about the application. Check out our [website](https://revenuemonster.my) to get a general gist of what we do before you proceed. Give it a real good thought if this is something that would interest you for at least 2-3 years. **Life is short, do what you love.**
 
 - Are you **willing to constantly keep up with the latest technology** and work with open sourced
   technology? We consider ourself as a **new technology hub** in **Malaysia**.
